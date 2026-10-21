@@ -1,0 +1,9 @@
+# Original source documents remain private.
+*.pdf
+*.docx
+*.ppt
+*.pptx
+.DS_Store
+.env
+__pycache__/
+venv/
